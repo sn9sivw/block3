@@ -10,4 +10,3 @@ for X in [False, True]:
             print(f'б) {expr_b}')
             print(f'в) {expr_c}')
             print()
-            
